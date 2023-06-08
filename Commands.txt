@@ -1,0 +1,5 @@
+npm init
+(Main File set index.js entry point)
+npm install express
+make file of server.js (name can be any)
+node app.js
